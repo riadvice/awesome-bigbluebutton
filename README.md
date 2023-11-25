@@ -137,7 +137,7 @@ A curated list of amazingly awesome BigBlueButton resources, integrations, and s
 
 ## Foundations
 - [BigBlueButton Foundation](https://bigbluebutton.org/articles/bigbluebutton-foundation/)
-- [eBBA](https://www.ebbba.org/) - Electronic BigBlueButton Association.
+- [eBBA](https://www.ebbba.org/) - European BigBlueButton Association.
 
 ## Community support
 - [BigBlueButton Developers](https://groups.google.com/forum/#!forum/bigbluebutton-dev)
