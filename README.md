@@ -53,7 +53,7 @@ A curated list of amazingly awesome BigBlueButton resources, integrations, and s
 ### Collaboration
 - Bookly
 - Discourse - [Discourse BBB Plugin](https://github.com/discourse/discourse-bbb)
-- Mattermost
+- Mattermost - [Mattermost BBB Plugin](https://github.com/blindsidenetworks/mattermost-plugin-bigbluebutton)
 - Nextcloud
 - RedMine
 - RocketChat
