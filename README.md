@@ -12,7 +12,6 @@ A curated list of amazingly awesome BigBlueButton resources, integrations, and s
     - [Collaboration](#collaboration)
     - [Corporate Training Platform](#corporate-training-platform)
     - [Dedicated](#dedicated)
-    - [E-Learning Platform](#e-learning-platform)
     - [LMS](#lms)
     - [School Management System](#school-management-system)
     - [Standards](#standards)
@@ -52,12 +51,12 @@ A curated list of amazingly awesome BigBlueButton resources, integrations, and s
 
 ### Collaboration
 - Bookly
-- Discourse - [Discourse BBB Plugin](https://github.com/discourse/discourse-bbb)
-- Mattermost - [Mattermost BBB Plugin](https://github.com/blindsidenetworks/mattermost-plugin-bigbluebutton)
+- Discourse - [Discourse BBB Plugin](https://github.com/discourse/discourse-bbb) `MIT`
+- Mattermost - [Mattermost BBB Plugin](https://github.com/blindsidenetworks/mattermost-plugin-bigbluebutton) `Apache-2.0`
 - Nextcloud
 - RedMine
 - RocketChat
-- Zulip
+- Zulip - [Zulip BBB Integration](https://zulip.com/integrations/doc/big-blue-button) `Apache-2.0`
 
 ### Corporate Training Platform
 - Collaborator LMS
@@ -69,13 +68,11 @@ A curated list of amazingly awesome BigBlueButton resources, integrations, and s
 - [Greenlight](https://github.com/bigbluebutton/greenlight) - Simple end-user interface for BigBlueButton servers. `LGPL-3.0`
 - [Pilos](https://github.com/THM-Health/PILOS) - Open-source front-end with a built-in load balancer. `LGPL-2.1`
 
-### E-Learning Platform
-- Chamilo
-
 ### LMS
-- [ATutor - [ATutor BBB Integration](https://github.com/atutor/bigbluebutton) `GPL`
+- ATutor - [ATutor BBB Integration](https://github.com/atutor/bigbluebutton) `GPL`
 - Blackboard Learn
 - Canvas - [Canvas LMS](https://github.com/instructure/canvas-lms) `AGPL-3.0`
+- Chamilo
 - Ilias - [BigBlueButton Ilias Plugin](https://github.com/Minervis-GmbH/BigBlueButton-Ilias-Plugin)
 - Jenzabar - [Jenzabar](https://jenzabar.com/) `Proprietary`
 - JoomlaLMS
