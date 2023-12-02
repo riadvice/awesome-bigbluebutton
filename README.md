@@ -11,7 +11,7 @@ A curated list of amazingly awesome BigBlueButton resources, integrations, and s
     - [CMS](#cms)
     - [Collaboration](#collaboration)
     - [Corporate Training Platform](#corporate-training-platform)
-    - [Dedicated](#dedicated)
+    - [Frontend](#frontend)
     - [LMS](#lms)
     - [School Management System](#school-management-system)
     - [Standards](#standards)
@@ -63,7 +63,7 @@ A curated list of amazingly awesome BigBlueButton resources, integrations, and s
 - Docebo
 - TalentLMS
 
-### Dedicated
+### Frontend
 - [b3desk](https://github.com/numerique-gouv/b3desk) - BBB fronted by the French Ministry of Education. `EUPL`
 - [BBBeasy](https://github.com/riadvice/bbbeasy) - Easy-to-use room manager for BigBlueButton with customisable settings. `AGPL-3.0`
 - [Greenlight](https://github.com/bigbluebutton/greenlight) - Simple end-user interface for BigBlueButton servers. `LGPL-3.0`
