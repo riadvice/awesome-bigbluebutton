@@ -59,11 +59,12 @@ A curated list of amazingly awesome BigBlueButton resources, integrations, and s
 - Zulip - [Zulip BBB Integration](https://zulip.com/integrations/doc/big-blue-button) `Apache-2.0`
 
 ### Corporate Training Platform
-- Collaborator LMS
+- [Collaborator LMS](https://collaborator.biz)
 - Docebo
 - TalentLMS
 
 ### Dedicated
+- [b3desk](https://github.com/numerique-gouv/b3desk) - BBB fronted by the French Ministry of Education. `EUPL`
 - [BBBeasy](https://github.com/riadvice/bbbeasy) - Easy-to-use room manager for BigBlueButton with customisable settings. `AGPL-3.0`
 - [Greenlight](https://github.com/bigbluebutton/greenlight) - Simple end-user interface for BigBlueButton servers. `LGPL-3.0`
 - [Pilos](https://github.com/THM-Health/PILOS) - Open-source front-end with a built-in load balancer. `LGPL-2.1`
@@ -97,6 +98,7 @@ A curated list of amazingly awesome BigBlueButton resources, integrations, and s
 ### Video Management
 - [Marsha](https://github.com/openfun/marsha) `MIT`
 - [Opencast](https://github.com/elan-ev/opencast-bigbluebutton-integration) - Integration with Opencast for video management. `LGPL-3.0`
+- Panopto
 
 ## Forks
 - [BigBlueButton with Live Translation](https://git.fairkom.net/chat/fairblue) - Adds live translation and audio sharing. `LGPL-3.0`
