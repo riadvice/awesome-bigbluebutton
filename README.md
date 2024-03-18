@@ -81,6 +81,7 @@ A curated list of amazingly awesome BigBlueButton resources, integrations, and s
 - OpenOlat
 - Sakai
 - Schoology
+- Stud.IP - [Meetings Plugin](https://github.com/elan-ev/studip-meeting)
 - WPLMS
 
 ### School Management System
@@ -122,7 +123,7 @@ A curated list of amazingly awesome BigBlueButton resources, integrations, and s
 - [BigBlueBot](https://github.com/mconf/bigbluebot) - Tool for running automated bots on BigBlueButton. `MIT`
 
 ## Other
-- [BigBlueButton Adopter's Map](https://github.com/elan-ev/bigbluebutton-map) - Showcases global BigBlueButton installations. `GPL-3.0`
+- [BigBlueButton Adopter's Map](https://github.com/bigbluebutton/bigbluebutton-map) - Showcases global BigBlueButton installations. `GPL-3.0`
 
 ## Commercial SaaS
 - [Activity Reports SaaS](https://riadvice.tn/bigbluebutton#activity-reports) by [RIADVICE](https://riadvice.tn/) - Generates PDF reports for BigBlueButton recordings. `Proprietary`
@@ -136,7 +137,7 @@ A curated list of amazingly awesome BigBlueButton resources, integrations, and s
 
 ## Foundations
 - [BigBlueButton Foundation](https://bigbluebutton.org/articles/bigbluebutton-foundation/)
-- [eBBA](https://www.ebbba.org/) - European BigBlueButton Association.
+- [eBBBA](https://www.ebbba.org/) - European BigBlueButton Association.
 
 ## Community support
 - [BigBlueButton Developers](https://groups.google.com/forum/#!forum/bigbluebutton-dev)
