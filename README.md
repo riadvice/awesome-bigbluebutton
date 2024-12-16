@@ -129,6 +129,7 @@ A curated list of amazingly awesome BigBlueButton resources, integrations, and s
 - [Activity Reports SaaS](https://riadvice.tn/bigbluebutton#activity-reports) by [RIADVICE](https://riadvice.tn/) - Generates PDF reports for BigBlueButton recordings. `Proprietary`
 - [Blue Bolts](https://riadvice.tn/bigbluebutton/#mp4-recordings) by [RIADVICE](https://riadvice.tn/) - Automated load testing service for BigBlueButton. `Proprietary`
 - [MP4 SaaS](https://riadvice.tn/bigbluebutton/#mp4-recordings) by [RIADVICE](https://riadvice.tn/) - Converts BigBlueButton recordings to MP4 format. `Proprietary`
+- [BBB Analytics](https://bbbanalytics.com/) by [RIADVICE](https://riadvice.tn/) - A proprietary Business Intelligence platform providing advanced analytics for BigBlueButton. `Proprietary`
 
 ## Resources
 - [Documentation & Resource Centre](https://docs.bigbluebutton.org/) - Comprehensive documentation for BigBlueButton.
