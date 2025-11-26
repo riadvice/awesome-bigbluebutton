@@ -32,6 +32,7 @@ A curated list of amazingly awesome BigBlueButton resources, integrations, and s
 - [B3scale](https://github.com/b3scale/b3scale) - A multi-tenant BBB load balancer. `AGPL-3.0`
 - [BBB@Scale](https://gitlab.com/bbbatscale/bbbatscale) - All-in-one portal for managing BBB servers and users in large-scale online learning. `LGPL-3.0`
 - [b3lb](https://github.com/DE-IBH/b3lb) - Django-based load balancer designed for 100+ BigBlueButton nodes. `AGPL-3.0`
+- [BBBLB](https://github.com/defnull/bbblb) Yet another multi-tenant load balancer for BigBlueButton. Written in async Python. `AGPL-3.0`
 - [BigBlueSwarm](https://github.com/bigblueswarm/bigblueswarm) - Metrics-based load balancer for BigBlueButton. `GPL-3.0`
 - [scalelite](https://github.com/blindsidenetworks/scalelite/) - Open-source load balancer for managing BBB server pools. `AGPL-3.0`
 - [ZcaleRight](https://zcaleright.com/) - A BigBlueButton load balancer for cloud and baremetal deployments with a web UI. `Proprietary`
@@ -148,3 +149,4 @@ A curated list of amazingly awesome BigBlueButton resources, integrations, and s
 
 ## Commercial support
 - [Commercial Providers](https://bigbluebutton.org/commercial-support/) - List of official BigBlueButton commercial support providers.
+
